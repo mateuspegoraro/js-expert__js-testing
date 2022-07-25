@@ -9,7 +9,7 @@ const BASE_URL_1 = 'https://the-one-api.dev/v2/character?name=Gandalf'
 const BASE_URL_2 = 'https://the-one-api.dev/v2/character?name=Frodo Baggins'
 const BASE_URL_3 = 'https://the-one-api.dev/v2/character?name=Aragorn II Elessar'
 
-const HEADERS = { headers: { 'Authorization': 'Bearer Z9yvAVOevXk5dIYiKwnh' } }
+const HEADERS = { headers: { 'Authorization': 'Bearer ' } }
 
 const mocks = {
     gandalf: require('../mocks/lotCharacters.json'),
