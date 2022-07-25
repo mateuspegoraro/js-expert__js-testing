@@ -1,0 +1,22 @@
+{
+    "docs": [
+        {
+            "_id": "5cd99d4bde30eff6ebccfc15",
+            "height": "1.06m (3'6\")",
+            "race": "Hobbit",
+            "gender": "Male",
+            "birth": "22 September ,TA 2968",
+            "spouse": "",
+            "death": "Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",
+            "realm": "",
+            "hair": "Brown",
+            "name": "Frodo Baggins",
+            "wikiUrl": "http://lotr.wikia.com//wiki/Frodo_Baggins"
+        }
+    ],
+    "total": 1,
+    "limit": 1000,
+    "offset": 0,
+    "page": 1,
+    "pages": 1
+}
