@@ -12,9 +12,9 @@ const BASE_URL_3 = 'https://the-one-api.dev/v2/character?name=Aragorn II Elessar
 const HEADERS = { headers: { 'Authorization': 'Bearer Z9yvAVOevXk5dIYiKwnh' } }
 
 const mocks = {
-    gandalf: require('./mocks/lotCharacters.json'),
-    frodo: require('./mocks/lotCharacters2.json'),
-    aragorn: require('./mocks/lotCharacters3.json')
+    gandalf: require('../mocks/lotCharacters.json'),
+    frodo: require('../mocks/lotCharacters2.json'),
+    aragorn: require('../mocks/lotCharacters3.json')
 }
 
     ; (async () => {
