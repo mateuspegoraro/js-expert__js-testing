@@ -1,0 +1,26 @@
+{
+  "name": "js-expert__js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuspegoraro/js-expert__js-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateuspegoraro/js-expert__js-testing/issues"
+  },
+  "homepage": "https://github.com/mateuspegoraro/js-expert__js-testing#readme",
+  "devDependencies": {
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "sinon": "^9.2.4",
+    "supertest": "^6.2.4"
+  }
+}
