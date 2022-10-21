@@ -34,5 +34,5 @@ const file = new File()
 // E temos o call, nesse exemplo estamos simulando o stub do sinon usando o call
 //file.watch.call({ showContent: () => console.log('call: hey sinon!') }, null, __filename)
 // O apply faz a mesma coisa que o call, a diferença é que ele recebe um array no final
-file.watch.call({ showContent: () => console.log('call: hey sinon!') }, [null, __filename])
+file.watch.apply({ showContent: () => console.log('call: hey sinon!') }, [null, __filename])
 
